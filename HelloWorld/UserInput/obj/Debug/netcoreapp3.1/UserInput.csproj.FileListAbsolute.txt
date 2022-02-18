@@ -1,0 +1,14 @@
+D:\c#\HelloWorld\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+D:\c#\HelloWorld\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+D:\c#\HelloWorld\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+D:\c#\HelloWorld\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+D:\c#\HelloWorld\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+D:\c#\HelloWorld\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.AssemblyReference.cache
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+D:\c#\HelloWorld\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache
