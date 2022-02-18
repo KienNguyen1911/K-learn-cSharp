@@ -6,7 +6,9 @@ namespace Math
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // max, min, abs, round, sqrt
+            int x = 9, y = 11;
+            Console.WriteLine(Math.Max(x, y));
         }
     }
 }

@@ -1,0 +1,5 @@
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
