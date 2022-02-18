@@ -1,0 +1,14 @@
+D:\c#\HelloWorld\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+D:\c#\HelloWorld\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+D:\c#\HelloWorld\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+D:\c#\HelloWorld\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+D:\c#\HelloWorld\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+D:\c#\HelloWorld\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.AssemblyReference.cache
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+D:\c#\HelloWorld\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache

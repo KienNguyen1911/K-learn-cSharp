@@ -1,0 +1,14 @@
+D:\c#\HelloWorld\ArrayK\bin\Debug\netcoreapp3.1\ArrayK.exe
+D:\c#\HelloWorld\ArrayK\bin\Debug\netcoreapp3.1\ArrayK.deps.json
+D:\c#\HelloWorld\ArrayK\bin\Debug\netcoreapp3.1\ArrayK.runtimeconfig.json
+D:\c#\HelloWorld\ArrayK\bin\Debug\netcoreapp3.1\ArrayK.runtimeconfig.dev.json
+D:\c#\HelloWorld\ArrayK\bin\Debug\netcoreapp3.1\ArrayK.dll
+D:\c#\HelloWorld\ArrayK\bin\Debug\netcoreapp3.1\ArrayK.pdb
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.csproj.AssemblyReference.cache
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.AssemblyInfoInputs.cache
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.AssemblyInfo.cs
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.dll
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.pdb
+D:\c#\HelloWorld\ArrayK\obj\Debug\netcoreapp3.1\ArrayK.genruntimeconfig.cache

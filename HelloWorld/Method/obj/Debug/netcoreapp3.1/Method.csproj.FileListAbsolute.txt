@@ -1,0 +1,14 @@
+D:\c#\HelloWorld\Method\bin\Debug\netcoreapp3.1\Method.exe
+D:\c#\HelloWorld\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+D:\c#\HelloWorld\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+D:\c#\HelloWorld\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+D:\c#\HelloWorld\Method\bin\Debug\netcoreapp3.1\Method.dll
+D:\c#\HelloWorld\Method\bin\Debug\netcoreapp3.1\Method.pdb
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.csproj.AssemblyReference.cache
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.dll
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.pdb
+D:\c#\HelloWorld\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache

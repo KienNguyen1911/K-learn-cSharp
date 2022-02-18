@@ -3,3 +3,12 @@ D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.
 D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
 D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
 D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorld\Math\bin\Debug\netcoreapp3.1\Math.exe
+D:\c#\HelloWorld\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+D:\c#\HelloWorld\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+D:\c#\HelloWorld\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+D:\c#\HelloWorld\Math\bin\Debug\netcoreapp3.1\Math.dll
+D:\c#\HelloWorld\Math\bin\Debug\netcoreapp3.1\Math.pdb
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.dll
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.pdb
+D:\c#\HelloWorld\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache

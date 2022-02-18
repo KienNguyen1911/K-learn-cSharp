@@ -1,0 +1,14 @@
+D:\c#\HelloWorld\Booleans\bin\Debug\netcoreapp3.1\Booleans.exe
+D:\c#\HelloWorld\Booleans\bin\Debug\netcoreapp3.1\Booleans.deps.json
+D:\c#\HelloWorld\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.json
+D:\c#\HelloWorld\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.dev.json
+D:\c#\HelloWorld\Booleans\bin\Debug\netcoreapp3.1\Booleans.dll
+D:\c#\HelloWorld\Booleans\bin\Debug\netcoreapp3.1\Booleans.pdb
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.csproj.AssemblyReference.cache
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfoInputs.cache
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfo.cs
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.dll
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.pdb
+D:\c#\HelloWorld\Booleans\obj\Debug\netcoreapp3.1\Booleans.genruntimeconfig.cache
