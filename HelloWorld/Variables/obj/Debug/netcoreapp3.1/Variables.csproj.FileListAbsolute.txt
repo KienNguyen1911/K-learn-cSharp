@@ -1,0 +1,14 @@
+D:\c#\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+D:\c#\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+D:\c#\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+D:\c#\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+D:\c#\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+D:\c#\HelloWorld\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+D:\c#\HelloWorld\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
